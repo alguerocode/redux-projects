@@ -1,0 +1,39 @@
+.app{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-25%,-25%);
+  display: flex;
+  background-color: rgb(255, 145, 0);
+  padding: 30px;
+  border-radius: 10px;
+  width: fit-content;
+  height: fit-content;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+button{
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  width: 60px;
+  outline: none;
+  border-radius: 10px;
+  background-color: aqua;
+  border: none;
+}
+
+.counter-screen{
+  padding: 20px 60px;
+  background-color: white;
+  outline: none;
+  border-radius: 15px;
+}
+
+button:hover{
+  opacity: .8;
+  cursor: pointer;
+}
+
+
