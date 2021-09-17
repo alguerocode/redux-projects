@@ -1,4 +1,4 @@
-# redux-projects
+# intersting redux projects
 redux projects to master redux and practicing 
 
 <p align="center">
